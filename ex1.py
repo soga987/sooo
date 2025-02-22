@@ -2,7 +2,6 @@
 import streamlit as st
 import plotly.express as px
 import pandas as pd
-!pip install plotly
 
 # Title of the app
 st.title("Streamlit Dashboard with Plotly")
